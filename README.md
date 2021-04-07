@@ -1,1 +1,1 @@
-# Art-Template-Clone https://mosgizy.github.io/Art-Template-Clone/art.html
+# Art-Template-Clone https://mosgizy.github.io/Art-Template-CLone/art.html
